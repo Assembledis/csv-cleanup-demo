@@ -1,0 +1,10 @@
+Full Name, E-mail ,Phone,Company,City,notes
+Jane Doe,jane.doe@example.com,555-010-1001,Acme Logistics,Austin,vip
+"DOE, Jane",jane.doe@example.com,(555) 010-1001,Acme Logistics,Austin,duplicate
+john smith,JOHN.SMITH@EXAMPLE.COM,1 555 010 2002,Northwind LLC,Denver,
+"Rivera, Ana",ana @example.com,555.010.3003,Contoso,Miami,space in email
+,,, ,,,
+Alex Nguyen,not-an-email,12345,Fabrikam,Seattle,bad phone and email
+  Sam   Patel  ,sam.patel@example.com,+1 (555) 010-4004,Tailspin Toys,Chicago,
+,,,,,
+Maria Santos,maria.santos@example.com,5550105005,Adventure Works,Boston,ok
